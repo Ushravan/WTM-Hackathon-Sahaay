@@ -13,11 +13,13 @@ Fraud Detection is used to Find Hidden Cameras in trail rooms and also to Read o
 Using Sahaay Girls Are in Safe Hands :)
 
 Team Members:
+U.Shravan                shravan7240@gmail.com
 N.Koushik                koushiknallapuneni@gmail.com
 P.Srikar                 srikarpohar@gmail.com
 A.Rakesh                 rakesh260399@gmail.com
-U.Shravan                shravan7240@gmail.com
 
 
-Contact: N.Koushik   +91 9505624932
+
+Contact:U.Shravan     +91 7207240807
+        N.Koushik     +91 9505624932
 
